@@ -1,24 +1,23 @@
 # Douyu-Subtitles-Spider-via-Bojianger.com
 A douyu subtitles spider by bojianger.com
 
-Can record subtitles from a certain UID(one user of Douyu.com) for recently 2 days
+Can record subtitles from a certain audience(user of Douyu.com) or an anchor(streamer of Douyu)for recently 2 days
 
-For running the script, a "uid.txt" file is required
+For running the script, a "uid.txt" or "rid.txt" file is required
 example :
+
 /current script dir/uid.txt
 
 17444333
 
 129719727
 
-357420154
+63639026          //different uid number (user ID) from Douyu.com
 
-357551784
+/current script dir/rid.txt
 
-17698882
+229346
 
-168035821
+796449
 
-74818097
-
-63639026          //different uid number from Douyu.com
+241123            //different rid number (Douyu room ID)
