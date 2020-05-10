@@ -7,10 +7,17 @@ For running the script, a "uid.txt" file is required
 example :
 /current script dir/uid.txt
 17444333
+
 129719727
+
 357420154
+
 357551784
+
 17698882
+
 168035821
+
 74818097
+
 63639026          //different uid number from Douyu.com
