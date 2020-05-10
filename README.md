@@ -13,4 +13,4 @@ example :
 17698882
 168035821
 74818097
-63639026           //different uid number from Douyu.com
+63639026          //different uid number from Douyu.com
