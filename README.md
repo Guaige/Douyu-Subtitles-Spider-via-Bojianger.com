@@ -4,6 +4,7 @@ A douyu subtitles spider by bojianger.com
 Can record subtitles from a certain audience(user of Douyu.com) or an anchor(streamer of Douyu)for recently 2 days
 
 For running the script, a "uid.txt" or "rid.txt" file is required
+
 example :
 
 /current script dir/uid.txt
